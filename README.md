@@ -1,1 +1,1 @@
-# Estad-stica-2026-1
+# Estadistica-2026-1
